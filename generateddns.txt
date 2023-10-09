@@ -106,3 +106,21 @@
 [2023-10-09 13:38:16] 15   type=A data=159.148.172.251 name=cloud2.mikrotik.com ttl=19m53s
 [2023-10-09 13:38:16] 16   type=A data=159.148.147.201 name=cloud2.mikrotik.com ttl=19m53s
 [2023-10-09 13:38:16] 
+[2023-10-09 13:38:34] 0   type=A data=203.190.242.228 name=cdnv.detik.com ttl=2h22m41s
+[2023-10-09 13:38:34] 1   type=A data=103.49.221.99 name=cdnv.detik.com ttl=2h22m41s
+[2023-10-09 13:38:34] 2   type=A data=103.49.221.244 name=newrevive.detik.com ttl=1h45m1s
+[2023-10-09 13:38:34] 3   type=A data=203.190.242.244 name=newrevive.detik.com ttl=1h45m1s
+[2023-10-09 13:38:34] 4   type=A data=103.49.221.172 name=push.detik.com ttl=2h33m18s
+[2023-10-09 13:38:34] 5   type=A data=203.190.242.172 name=push.detik.com ttl=2h33m18s
+[2023-10-09 13:38:34] 6   type=A data=34.120.133.188 name=collent.detik.com ttl=3h9m58s
+[2023-10-09 13:38:34] 7   type=A data=203.190.242.240 name=video.detik.com ttl=3h12m40s
+[2023-10-09 13:38:34] 8   type=A data=103.49.221.240 name=video.detik.com ttl=3h12m40s
+[2023-10-09 13:38:34] 9   type=A data=203.190.242.172 name=cdnstatic.detik.com ttl=3h2m44s
+[2023-10-09 13:38:34] 10   type=A data=103.49.221.172 name=cdnstatic.detik.com ttl=3h2m44s
+[2023-10-09 13:38:34] 11   type=A data=35.186.235.23 name=cdn.mxpnl.com ttl=2h47m43s
+[2023-10-09 13:38:34] 12   type=A data=130.211.5.208 name=cdn.mxpnl.com ttl=2h47m43s
+[2023-10-09 13:38:34] 13   type=A data=150.129.18.9 name=webmail.max.net.id ttl=1h14m40s
+[2023-10-09 13:38:34] 14   type=A data=35.190.80.1 name=a.nel.cloudflare.com ttl=3h16m46s
+[2023-10-09 13:38:34] 15   type=A data=159.148.172.251 name=cloud2.mikrotik.com ttl=19m35s
+[2023-10-09 13:38:34] 16   type=A data=159.148.147.201 name=cloud2.mikrotik.com ttl=19m35s
+[2023-10-09 13:38:34] 
