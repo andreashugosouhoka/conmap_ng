@@ -1,0 +1,37 @@
+protocol,src-address,src-port,dst-address,dst-port,flow,tcp-state,resolved,cc,asn,threat,description,modified
+tcp,175.103.43.90,51874,10.0.0.4,4075,IN.bound,established,,ID,AS38320 pt maxindo mitra solusi,,,
+tcp,192.168.99.242,54496,35.190.80.1,443,OUT.bound,established,a.nel.cloudflare.com,US,AS15169 google llc,Qakbot attacks. As strong as before?,command and control\nRedlinestealer\nQakbot\nNoName057\nAzorult\nBlack Rat\nbrowser malware  \nBanke,2023-10-05T08:55:16.736000
+tcp,192.168.99.242,54463,20.197.71.89,443,OUT.bound,established,,SG,AS8075 microsoft corporation,pc connections,pulled from router,2022-05-20T00:01:19.453000
+tcp,192.168.99.242,53997,74.125.204.188,5228,OUT.bound,established,,US,AS15169 google llc,,,
+tcp,10.0.0.4,52931,89.248.163.88,62255,OUT.bound,established,,GB,AS202425 ip volume inc,,,
+tcp,192.168.99.242,54501,91.108.56.186,443,OUT.bound,established,,AG,AS62014 telegram messenger inc,,,
+tcp,192.168.99.242,53998,74.125.204.188,5228,OUT.bound,established,,US,AS15169 google llc,,,
+tcp,192.168.99.242,54500,91.108.56.186,443,OUT.bound,established,,AG,AS62014 telegram messenger inc,,,
+tcp,192.168.99.242,53996,20.197.71.89,443,OUT.bound,established,,SG,AS8075 microsoft corporation,pc connections,pulled from router,2022-05-20T00:01:19.453000
+tcp,192.168.99.242,54034,91.108.56.186,443,OUT.bound,established,,AG,AS62014 telegram messenger inc,,,
+tcp,192.168.99.242,54347,91.108.56.141,443,OUT.bound,established,,AG,AS62014 telegram messenger inc,,,
+tcp,192.168.99.242,53999,34.120.214.181,443,OUT.bound,established,,US,AS396982 google,,,
+tcp,192.168.99.242,54451,20.197.71.89,443,OUT.bound,established,,SG,AS8075 microsoft corporation,pc connections,pulled from router,2022-05-20T00:01:19.453000
+tcp,192.168.99.242,51889,20.197.71.89,443,OUT.bound,established,,SG,AS8075 microsoft corporation,pc connections,pulled from router,2022-05-20T00:01:19.453000
+tcp,192.168.99.242,51891,74.125.23.188,5228,OUT.bound,established,,US,AS15169 google llc,,,
+tcp,192.168.99.242,51890,74.125.23.188,5228,OUT.bound,established,,US,AS15169 google llc,,,
+tcp,192.168.99.242,52212,91.108.56.186,443,OUT.bound,established,,AG,AS62014 telegram messenger inc,,,
+tcp,192.168.99.242,52216,91.108.56.141,443,OUT.bound,established,,AG,AS62014 telegram messenger inc,,,
+tcp,192.168.99.242,52339,20.197.71.89,443,OUT.bound,established,,SG,AS8075 microsoft corporation,pc connections,pulled from router,2022-05-20T00:01:19.453000
+tcp,192.168.99.242,52370,20.197.71.89,443,OUT.bound,established,,SG,AS8075 microsoft corporation,pc connections,pulled from router,2022-05-20T00:01:19.453000
+tcp,10.0.0.4,52931,34.125.244.97,46812,OUT.bound,established,,US,AS396982 google,,,
+udp,10.0.0.4,47358,159.148.147.201,15252,OUT.bound,,cloud2.mikrotik.com,LV,AS51894 mikrotikls sia,,,
+tcp,10.0.0.4,52931,34.125.244.97,33322,OUT.bound,established,,US,AS396982 google,,,
+udp,10.0.0.4,48037,159.148.172.251,15252,OUT.bound,,cloud2.mikrotik.com,LV,AS51894 mikrotikls sia,,,
+tcp,10.0.0.4,52931,34.125.244.97,47766,OUT.bound,established,,US,AS396982 google,,,
+tcp,10.0.0.4,52931,34.125.244.97,34954,OUT.bound,established,,US,AS396982 google,,,
+tcp,10.0.0.4,52931,34.125.244.97,42282,OUT.bound,established,,US,AS396982 google,,,
+icmp,43.192.80.126,None,10.0.0.4,None,IN.bound,,,US,ASNone ,,,
+icmp,52.83.42.219,None,10.0.0.4,None,IN.bound,,,CN,AS135629 ningxia west cloud data technology co.ltd.,,,
+icmp,68.79.44.217,None,10.0.0.4,None,IN.bound,,,CN,AS135629 ningxia west cloud data technology co.ltd.,,,
+icmp,52.83.163.102,None,10.0.0.4,None,IN.bound,,,CN,AS135629 ningxia west cloud data technology co.ltd.,,,
+icmp,43.192.93.193,None,10.0.0.4,None,IN.bound,,,US,ASNone ,,,
+icmp,52.82.15.152,None,10.0.0.4,None,IN.bound,,,CN,AS135629 ningxia west cloud data technology co.ltd.,,,
+tcp,10.0.0.4,52931,34.125.244.97,33030,OUT.bound,established,,US,AS396982 google,,,
+tcp,10.0.0.4,52931,34.125.244.97,39440,OUT.bound,established,,US,AS396982 google,,,
+tcp,10.0.0.4,52931,34.125.244.97,44988,OUT.bound,established,,US,AS396982 google,,,
